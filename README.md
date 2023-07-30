@@ -3,15 +3,15 @@ Simple 2D maze game project
 
 # RUN
 to RUN the game:
-  *git clone https://github.com/AhmetBahaCepni/so_long_42.git
-  *cd so_long_42
-  *make bonus
-  *./so_long_bonus maps/medium_bonus_map.ber
+  * git clone https://github.com/AhmetBahaCepni/so_long_42.git
+  * cd so_long_42
+  * make bonus
+  * ./so_long_bonus maps/medium_bonus_map.ber
 
 # PLAY
 to PLAY the game:
-  WASD to move up-left-down-right
-  q or ESC to quit
+  * WASD to move up-left-down-right
+  * q or ESC to quit
 
 # RULES
 RULES:
